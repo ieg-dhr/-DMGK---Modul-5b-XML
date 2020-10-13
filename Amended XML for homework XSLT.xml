@@ -17,32 +17,5 @@
             <translation>The pleasant work for the husbandman.</translation>
         </marginalia>
         
-        <marginalia hand="Italian" date="1580">
-            <language ident="EN">
-                <position place="intext" book_orientation="0">
-                    <marginalia_text>Gabriel Haruey. XVIII. August. 1580.</marginalia_text>
-                    <person name="Gabriel Harvey"/>
-                </position>
-            </language>
-        </marginalia>
-        
-        <marginalia hand="Italian">
-            <language ident="EN">
-                <position place="intext" book_orientation="0">
-                    <marginalia_text>Heywoods prouerbs. Floyds Discourse of [the] nine Worthyes.</marginalia_text>
-                    <person name="John Heywood"/>
-                    <person name="Richard Lloyd"/>
-                    <book title="The Proverbs, Epigrams, and Miscellanies of John Heywood"/>
-                    <book title="A brief discourse"/>
-                </position>
-            </language>
-        </marginalia>
-        
-        <underline method="pen" type="straight" language="EN" text="Husbandrie"/>
-        <underline method="pen" type="straight" language="EN" text="Champion, or open countrie"/>
-        
-        <mark name="vertical_bar" method="chalk" place="intext"/>
-        <mark name="plus_sign" method="pen" place="intext" language="EN" text="Husbandrie"/>
-        
     </annotation>
 </transcription>
